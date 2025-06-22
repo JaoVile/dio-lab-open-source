@@ -1,10 +1,10 @@
-# Olá Meu nome é João Marcos, tenho 19 anos e estou adentrando no mundo tech.
+# Olá Meu nome é João Marcos Ferreira Vilela, tenho 20 anos e atualmente moro no interior do nordeste.
 
-Sou um jovem afeiçoado pela tecnologia e estou muito animado para fazer minha primeira contribuição em um Bootcamp da DIO!
+Estou adentrando o mundo da tecnologia, sempre fui afeiçoado pelo funcionamento da internet e estou aqui para seguir meu sonho de trabalhar com isso, estou muito animado para fazer minhas contribuições via github e melhorar minhas habilidades pessoas em geral, não vou desistir até conseguir uma carreira na qual eu me orgulhe por isso.
 
 ### 🚀 Sobre Mim
 - 💻 Estudando Análise e Desenvolvimento de Sistemas na Uninassau, atualmente indo pro ultimo semestre.
-- 🌱 Atualmente aprendendo sobre Python, React Native e um pouco acerca do Front-End.
+- 🌱 Atualmente focando em git, github, python, metodologias ágeis, fluxogramas, deploys e hosts.
 
 ### 🌐 Onde me Encontrar
 -[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][https://github.com/JaoVile]
